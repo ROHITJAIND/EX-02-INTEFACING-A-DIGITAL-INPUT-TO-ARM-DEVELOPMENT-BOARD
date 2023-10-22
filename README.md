@@ -62,6 +62,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
     </td>
     <td width="50%">
 <img src="https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png">
+	    <img src="https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png">  
     </td>
   </tr>
     <tr>
@@ -72,14 +73,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
       <img src="https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png">
     </td>
   </tr>
-    <tr>
-    <td width="50%">
-      8. edit the program and as per required.
-    </td>
-    <td width="50%">
-      <img src="https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png">
-    </td>
-  </tr>  
   <tr>
     <td width="50%">
       9. Add necessary library files of LCD 16x2 , write the program and use project and build.
